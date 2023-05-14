@@ -1,0 +1,67 @@
+section {
+  margin: 0;
+  padding: 0;
+  
+}
+.contact {
+  color: #444444;
+  text-align: center;
+  align-items: center;
+  padding: 30px 30px 32px 0;
+}
+#card {
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+}
+.contact .info-box i {
+  font-size: 20px;
+  color: #1977cc;
+  padding: 10px;
+  width: 44px;
+  height: 44px;
+  background: #d6e9fa;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+  
+}
+.contact .info-box .contactheading {
+
+  padding-top: 4%;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #2c4964;
+  align-items: center;
+}
+
+.contact .info-box .addressparagraph {
+ 
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #4b7dab;
+}
+
+.contact .info-box .email,
+.contact .info-box .phone,
+.contact .info-box .address {
+  margin-top: 30px;
+}
+
+.contact .info-box .email:hover i,
+.contact .info-box .address:hover i,
+.contact .info-box .phone:hover i {
+  background: #1977cc;
+  color: #fff;
+}
+
+.title{
+ 
+     color: #2c4964;
+}
+.paragraphtitle{
+  color: #4b7dab;
+  
+}
+
+

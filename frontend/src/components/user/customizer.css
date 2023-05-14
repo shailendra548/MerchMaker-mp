@@ -1,0 +1,17 @@
+.feature-active{
+    outline: 3px solid rgba(137, 43, 226, 0.478);
+}
+
+.palete-choice{
+    height: 10rem;
+}
+
+.sticker-slider{
+    height: 100px;
+    overflow-x: auto;
+}
+
+.slide-img{
+    border-radius: 5px;
+    /* height: 100px; */
+}

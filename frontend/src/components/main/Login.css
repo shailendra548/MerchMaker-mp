@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#login {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  color: #2c4964;
+}
+
+
+
+#signupwith{
+  color: #2c4964;
+  font-family: "Montserrat", sans-serif;
+}
+
